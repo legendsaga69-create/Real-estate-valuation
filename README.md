@@ -55,7 +55,7 @@ So sánh 13 model hồi quy qua 5-fold CV: Linear/Ridge/Lasso/ElasticNet, Decisi
 | Extra Trees | 0.885 | 0.884 | 49.8% | 23.6% | 48.8 | 1.32 |
 | Gradient Boosting | 0.886 | 0.883 | 53.6% | 17.7% | 51.7 | 1.36 |
 
-*(Bảng so sánh đầy đủ những model tốt nhất, bao gồm các model tuyến tính, trong notebook.)*
+*(Bảng so sánh đầy đủ những model tốt nhất trong notebook.)*
 
 ## Phát hiện chính
 
